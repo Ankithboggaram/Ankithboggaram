@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ![Keras](https://img.shields.io/badge/Framework-Keras-informational?style=flat&logo=keras&color=D00000)
 ![ONNX](https://img.shields.io/badge/Model-ONNX-informational?style=flat&logo=onnx&color=005CED)
 ![CUDA](https://img.shields.io/badge/HPC-CUDA-informational?style=flat&logo=nvidia&color=76B900)
-![OpenMP](https://img.shields.io/badge/Parallelism-OpenMP-informational?style=flat&logo=openmp&color=A67C3C)  
+![OpenMP](https://img.shields.io/badge/Parallelism-OpenMP-informational?style=flat&logo=openmp&color=A67C3C)
 ![ROS2](https://img.shields.io/badge/Robotics-ROS2-informational?style=flat&logo=ros&color=22314E)
 ![Spark](https://img.shields.io/badge/Data-Spark-informational?style=flat&logo=apachespark&color=E25A1C)
 ![Databricks](https://img.shields.io/badge/Data-Databricks-informational?style=flat&logo=databricks&color=FF3621)
