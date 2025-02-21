@@ -1,5 +1,5 @@
 ## 👋 Hey there, I'm Ankith. Thanks for dropping by!
-**Skilled in Applied Machine Learning, Data Science, High-Performance Computing (GPU Programming), and MLOps.**  
+### Skilled in Applied Machine Learning, Data Science, High-Performance Computing (GPU Programming), and MLOps.  
 
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
 ![C++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&color=00599C)
