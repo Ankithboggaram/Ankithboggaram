@@ -25,4 +25,5 @@
 Building intelligent solutions at the intersection of **Deep Learning, Robotics, High-Performance Computing (GPU Programming), and Distributed Systems**, I thrive on designing scalable architectures and pushing the boundaries of AI. Whether deploying **computer vision models**, accelerating computations with **CUDA**, crafting **high-performance systems**, or building **production-ready ML systems**, I’m always in pursuit of efficiency and innovation.
 
 ### 📧 Contact Me  
-If you're interested in collaborating or discussing ideas, feel free to reach out at: [![Email](https://img.shields.io/badge/Email-ankith.boggaram200@gmail.com-informational?style=flat&logo=gmail&color=EA4335)](mailto:ankith.boggaram2001@gmail.com) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankith-Boggaram-informational?style=flat&logo=linkedin&color=0077B5)](www.linkedin.com/in/ankith-boggaram)
+If you're interested in collaborating or discussing ideas, feel free to reach out!
+[![Email](https://img.shields.io/badge/Email-ankith.boggaram200@gmail.com-informational?style=flat&logo=gmail&color=EA4335)](mailto:ankith.boggaram2001@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankith_Boggaram-informational?style=flat&logo=linkedin&color=0077B5)](www.linkedin.com/in/ankith-boggaram)
