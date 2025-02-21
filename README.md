@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👋 Hey there, I'm Ankith! Thanks for dropping by. 
+## 👋 Hey there, I'm Ankith. Thanks for dropping by!
 **Skilled in Applied Machine Learning, Data Science, High-Performance Computing (GPU Programming), and MLOps.**  
 
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
