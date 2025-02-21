@@ -1,18 +1,3 @@
-<!--
-**Ankithboggaram/Ankithboggaram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## 👋 Hey there, I'm Ankith. Thanks for dropping by!
 **Skilled in Applied Machine Learning, Data Science, High-Performance Computing (GPU Programming), and MLOps.**  
 
@@ -36,7 +21,6 @@ Here are some ideas to get you started:
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
 ![Azure](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoft-azure&color=0078D4)
 ![gRPC](https://img.shields.io/badge/Networking-gRPC-informational?style=flat&logo=grpc&color=4285F4)
-![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
 
 Building intelligent solutions at the intersection of **Deep Learning, Robotics, High-Performance Computing (GPU Programming), and Distributed Systems**, I thrive on designing scalable architectures and pushing the boundaries of AI. Whether deploying **computer vision models**, accelerating computations with **CUDA**, crafting **high-performance systems**, or building **production-ready ML systems**, I’m always in pursuit of efficiency and innovation.
 
