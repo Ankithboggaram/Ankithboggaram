@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ## 👋 Hey there, I'm Ankith! Thanks for dropping by. 
-**Skilled in Applied Machine Learning, Data Science, High-Performance Computing (GPU Programming), and Distributed Systems.**  
+**Skilled in Applied Machine Learning, Data Science, High-Performance Computing (GPU Programming), and MLOps.**  
 
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
 ![C++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&color=00599C)
@@ -36,6 +36,6 @@ Here are some ideas to get you started:
 ![gRPC](https://img.shields.io/badge/Networking-gRPC-informational?style=flat&logo=grpc&color=4285F4)
 ![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
 
-Building intelligent solutions at the intersection of **Deep Learning, Robotics, High-Performance Computing (GPU Programming), and Distributed Systems**, I thrive on designing scalable architectures and pushing the boundaries of AI. Whether deploying **computer vision models**, accelerating computations with **CUDA**, crafting **high-performance systems**, or optimizing **federated learning pipelines**, I’m always in pursuit of efficiency and innovation.
+Building intelligent solutions at the intersection of **Deep Learning, Robotics, High-Performance Computing (GPU Programming), and Distributed Systems**, I thrive on designing scalable architectures and pushing the boundaries of AI. Whether deploying **computer vision models**, accelerating computations with **CUDA**, crafting **high-performance systems**, or building **production-ready ML systems**, I’m always in pursuit of efficiency and innovation.
 
 
