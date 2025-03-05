@@ -3,6 +3,7 @@
 
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
 ![C++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&color=00599C)
+![C](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c%2B%2B&color=00599C)
 ![Bash](https://img.shields.io/badge/Scripting-Bash-informational?style=flat&logo=gnubash&color=4EAA25)
 ![PyTorch](https://img.shields.io/badge/Framework-PyTorch-informational?style=flat&logo=pytorch&color=EE4C2C)
 ![TensorFlow](https://img.shields.io/badge/Framework-TensorFlow-informational?style=flat&logo=tensorflow&color=FF6F00)
